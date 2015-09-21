@@ -10,8 +10,6 @@
                 <string>azayqe</string>
             </array>
         </config-file>
-    </platform>
-    <platform name="ios">
         <config-file target="*-Info.plist" parent="NSAppTransportSecurity">
             <dict>
                 <key>NSAllowsArbitraryLoads</key>
