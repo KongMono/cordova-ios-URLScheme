@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "name": "kong.mono.cordova.ios-URLScheme",
+    "cordova_name": "IOS URLScheme",
+    "description": "Cordova Device Plugin",
+    "license": "MIT",
+    "repo": "https://github.com/KongMono/cordova-ios-URLScheme.git",
+    "keywords": [
+        "cordova",
+        "ios",
+        "security"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
