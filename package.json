@@ -1,5 +1,5 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "kong.mono.cordova.ios-URLScheme",
     "cordova_name": "IOS URLScheme",
     "description": "Cordova Device Plugin",

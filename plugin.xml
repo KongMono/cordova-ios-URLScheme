@@ -8,6 +8,7 @@
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
                 <string>azayqe</string>
+                <string>azayqebay</string>
             </array>
         </config-file>
         <config-file target="*-Info.plist" parent="NSAppTransportSecurity">
