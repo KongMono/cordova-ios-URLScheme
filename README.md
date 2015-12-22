@@ -9,3 +9,5 @@ It will add the following part to the *-Info.plist file during build process:
  <string>azayqe</string>
  <string>azayqebay</string>
 </array> 
+
+add Fonts

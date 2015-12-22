@@ -1,4 +1,4 @@
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:rim="http://www.blackberry.com/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="kong.mono.cordova.ios-URLScheme" version="0.0.2">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:rim="http://www.blackberry.com/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="kong.mono.cordova.ios-URLScheme" version="0.1.0">
     <name>IOS URLScheme</name>
     <description>IOS URLScheme</description>
     <license>Apache 2.0</license>
@@ -16,6 +16,11 @@
                 <key>NSAllowsArbitraryLoads</key>
                 <true/>
             </dict>
+        </config-file>
+        <config-file target="*-Info.plist" parent="Fonts provided by application">
+            <array>
+                <string>DBOzoneX.ttf</string>
+            </array>
         </config-file>
     </platform>
 </plugin>
